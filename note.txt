@@ -1,0 +1,3 @@
+trace(utils:::unpackPkgZip, edit=TRUE)
+
+The above to extend the sleep time
